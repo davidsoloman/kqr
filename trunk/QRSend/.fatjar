@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Apr 12 13:51:36 CEST 2010
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=QRSend_fat.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<jar|swt.jar>;<jar|commands.jar>;<jar|common.jar>;<jar|jface.jar>;<jar|runtime.jar>;<jar|kettle-engine-3.0.jar>;<jar|kettle-ui-swt-3.0.jar>
+includes=
